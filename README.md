@@ -2,6 +2,9 @@
 
 This Streamlit application uses OpenAI's GPT-3.5 Turbo model to perform English to Hinglish translation. It can be used to convert English text into Hinglish, which is a combination of English and Hindi (in the Devanagari script). It maintains the style of having the Hindi part in Devanagari script and only translates specific words into Hindi while leaving the rest in English.
 
+![Uploading Screenshot 2023-10-30 172138.png…]()
+
+
 ## Getting Started
 
 To run this Streamlit app, you'll need to set up your environment and configure the necessary API keys. Here are the steps to get started:
